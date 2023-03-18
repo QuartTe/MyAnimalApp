@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Animal App</string>
+    <string name="rexdesct">Rex is the most fabulous, strong, intelligent, handsome, unmatched, stunning,
+    brave, courageous, clever, adventurous, attractive, cooperative, enchanting, elegant, glorious,
+    happy, jolly, kind, magnificent, successful, splendid, tough, talented, vivacious, witty, precious
+    dog to EVER touch this universe</string>
+    <string name="pollydesct">Polly is the most fabulous, strong, intelligent, handsome, unmatched, stunning,
+    brave, courageous, clever, adventurous, attractive, cooperative, enchanting, elegant, glorious,
+    happy, jolly, kind, magnificent, successful, splendid, tough, talented, vivacious, witty, precious
+    parrot to EVER touch this universe</string>
+    <string name="bubadesct">Buba is the most fabulous, strong, intelligent, handsome, unmatched, stunning,
+    brave, courageous, clever, adventurous, attractive, cooperative, enchanting, elegant, glorious,
+    happy, jolly, kind, magnificent, successful, splendid, tough, talented, vivacious, witty, precious omnipresent
+    creature to EVER touch this universe.</string>
+</resources>
